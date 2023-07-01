@@ -2,7 +2,7 @@
 
 This repository contains a collection of tools and utilities written in C# that are designed to improve the software testing process. Whether you're a developer, quality assurance engineer, or a software tester, this repository aims to provide useful resources to enhance your testing efforts.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/recurse-riley/test-tools/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/license/mit/)
 [![GitHub Issues](https://img.shields.io/github/issues/recurse-riley/test-tools.svg)](https://github.com/recurse-riley/test-tools/issues)
 
 ## Table of Contents
