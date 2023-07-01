@@ -31,4 +31,4 @@ Contributions to this repository are closed. Please open an issue if you notice 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). You are free to use, modify, and distribute this software.
