@@ -16,7 +16,7 @@ This repository contains a collection of tools and utilities written in C# that 
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/test-tools.git
+   git clone https://github.com/recurse-riley/test-tools.git
    ```
 
 2. Open the cloned directory in your preferred C# development environment, such as Visual Studio or Visual Studio Code.
